@@ -4,7 +4,7 @@
 Visualize Business Data and create powerful business intelligence reports
 
 # Course Structure
-[i. Advance Excel](#ModuleI:AdvanceExcel)
+[i. Advance Excel](#AdvanceExcel)
 
 [ii. Tableau](#Tableau)
 
