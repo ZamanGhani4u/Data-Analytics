@@ -6,9 +6,11 @@ Visualize Business Data and create powerful business intelligence reports
 # Course Structure
 [i. Advance Excel](#AdvanceExcel)
 
-[ii. Tableau](#Tableau)
+[ii. SQL](#SQL)
 
-[iii. PowerBI](#PowerBI)
+[iii. Tableau](#Tableau)
+
+[iv. PowerBI](#PowerBI)
 
 # Advance Excel
 It is a complete CMS (CONTENT MANAGEMENT SYSTEM for building Dynamic , Attractive websites within few hours)
@@ -27,9 +29,18 @@ It is a complete CMS (CONTENT MANAGEMENT SYSTEM for building Dynamic , Attractiv
 -	Graphs and Power View reports
 
 
+# SQL
+Microsoft Structure Query Language (SQL) is a powerful tool to menage Database.
+
+## Course Include
+- Basic Syntax
+- DDL (Data Definition Language)
+- DML (Data Manupulation Language)
+- Basic Select Statements with clauses
+
+
 # Tableau
 Learn the basic and advance knowledge related to Data Science and Visualization using Tableau, one of the leading data visualizations software in the market today.
-
 ## Course Include
 - Installation of Tableau
 - Understanding the fundamental concepts
